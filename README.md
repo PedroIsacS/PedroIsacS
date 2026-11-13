@@ -1,10 +1,21 @@
-## Welcome to my profile! 👋
+## Hi, I'm Pedro Isac 👋
 
-Graduated in Systems Analysis and Development from SENAI Valinhos. Currently, I am pursuing a Data Science track at SENAI Valinhos and the ONE - Oracle Next Education program at Alura. Certified as a Scrum Professional. An eternal student.
+**Junior Data Scientist | Data Analyst | Full Stack Developer**
+📍 Campinas, SP, Brazil · 🔎 Open to junior opportunities in Data Science, Data Analysis and Software Development
 
-I work as a Junior Full Stack Software Developer at KODE (www.teamkode.com) as a freelancer. I work with agile methodologies (SCRUM) and produce courses in HTML, CSS, JavaScript, Python and React. In all projects, I use Git for code separation and versioning or on the platforms themselves, in no/low-code.
+I'm studying Systems Analysis and Development at FATEC (4th semester) and hold a technical degree in Systems Development from SENAI. I've also completed Data Science with Python and Machine Learning training at SENAI Valinhos, and I'm taking the ONE – Oracle Next Education back-end program with AI at Alura. Certified Scrum Professional. An eternal student.
 
-I am interested in data science with A.I., back-end with A.I., full stack development, and team collaboration.
+Before this, I worked as an Operational Planning Analyst, where I analyzed company revenue, built Power BI dashboards, automated processes, used web scraping to collect data, and followed daily operations for large clients such as Shopee, Amazon and Mercado Livre. I also work as a freelance Full Stack Developer at [KODE](https://www.teamkode.com), building web projects with agile methodologies (Scrum) and using Git for versioning.
+
+### 🔬 What you'll find here
+- 📓 [data_science_aulas](https://github.com/PedroIsacS/data_science_aulas): Python notebooks on Pandas, NumPy, data visualization, web scraping, API data analysis and NLP
+
+### 🛠️ Tech I work with
+**Data:** Python, Pandas, NumPy, SQL, PostgreSQL, MySQL, Power BI, Google Colab
+**Dev:** JavaScript, React, Node.js, HTML, CSS, Git
+
+### 🎯 Interests
+Data science with A.I., back-end with A.I., full stack development and team collaboration.
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=PedroIsac564&show_icons=true&theme=dark"/>
