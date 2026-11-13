@@ -18,9 +18,6 @@ Before this, I worked as an Operational Planning Analyst, where I analyzed compa
 Data science with A.I., back-end with A.I., full stack development and team collaboration.
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PedroIsac564&show_icons=true&theme=dark"/>
-</p>
-<p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width='50px'/>
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width='50px'/>
